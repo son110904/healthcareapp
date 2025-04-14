@@ -85,7 +85,7 @@
             android:enabled="false"
             android:paddingStart="8dp"
             android:paddingEnd="8dp"
-            android:text="Gần nhất"
+            android:text="@string/button_hospital"
             android:textColor="#FFFFFF"
             android:textSize="12sp" />
     </LinearLayout>

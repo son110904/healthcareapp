@@ -1,5 +1,4 @@
 package com.example.healthcareapp;
-import com.example.healthcareapp.R;
 
 import android.content.Context;
 import android.os.Bundle;

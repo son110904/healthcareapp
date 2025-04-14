@@ -12,4 +12,5 @@
     <string name="contact_title">CONTACT</string>
     <string name="emergency_number">Emergency numbers</string>
     <string name="change_language">Change language</string>
+    <string name="button_hospital">Nearest</string>
 </resources>

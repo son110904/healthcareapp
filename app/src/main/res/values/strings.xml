@@ -11,4 +11,5 @@
     <string name="contact_title">LIÊN LẠC</string>
     <string name="emergency_number">Số khẩn cấp</string>
     <string name="change_language">Thay đổi ngôn ngữ</string>
+    <string name="button_hospital">Gần nhất</string>
 </resources>

@@ -12,4 +12,5 @@
     <string name="contact_title">CONTACTO</string>
     <string name="emergency_number">Números de emergencia</string>
     <string name="change_language">Cambiar idioma</string>
+    <string name="button_hospital">Más cercano</string>
 </resources>
