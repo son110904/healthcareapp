@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Healthcare App</string>
+    <string name="emergency_title">EMERGENCY</string>
+    <string name="emergency_header">EMERGENCY</string>
+    <string name="emergency_notes_title">NOTES WHEN CALLING EMERGENCY</string>
+    <string name="emergency_note_1">Free call, even when you run out of credit</string>
+    <string name="emergency_note_2">Follow the operator\'s instructions</string>
+    <string name="emergency_note_3">Observe and provide information about the accident location, victim\'s condition, and contact number of the person at the scene until the ambulance arrives</string>
+    <string name="hospital_title">NEARBY HOSPITALS</string>
+    <string name="map_subtitle">Map</string>
+    <string name="contact_title">CONTACT</string>
+    <string name="emergency_number">Emergency numbers</string>
+    <string name="change_language">Change language</string>
+</resources>

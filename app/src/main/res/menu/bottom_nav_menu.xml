@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Trang chủ" />
+        <item
+            android:id="@+id/nav_emergency"
+            android:icon="@drawable/ic_hospital"
+            android:title="Khẩn cấp" />
+        <item
+            android:id="@+id/action_change_language"
+            android:title="@string/change_language"
+            android:icon="@drawable/ic_language"
+            app:showAsAction="never" />
+    </group>
+</menu>

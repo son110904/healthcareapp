@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ứng dụng sức khỏe</string>
+    <string name="emergency_title">KHẨN CẤP</string>
+    <string name="emergency_header">CẤP CỨU</string>
+    <string name="emergency_notes_title">LƯU Ý KHI GỌI CẤP CỨU</string>
+    <string name="emergency_note_1">Miễn phí cước gọi, kể cả khi không còn tiền</string>
+    <string name="emergency_note_2">Làm theo hướng dẫn tổng đài viên</string>
+    <string name="emergency_note_3">Quan sát và cung cấp thông tin về địa điểm xảy ra tai nạn, tình trạng nạn nhân, số điện thoại người túc trực tại hiện trường đến khi xe cứu thương tới</string>
+    <string name="hospital_title">BỆNH VIỆN GẦN BẠN</string>
+    <string name="map_subtitle">Bản đồ</string>
+    <string name="contact_title">LIÊN LẠC</string>
+    <string name="emergency_number">Số khẩn cấp</string>
+    <string name="change_language">Thay đổi ngôn ngữ</string>
+</resources>

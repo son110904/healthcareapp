@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación de Salud</string>
+    <string name="emergency_title">EMERGENCIA</string>
+    <string name="emergency_header">EMERGENCIA</string>
+    <string name="emergency_notes_title">NOTAS PARA LLAMADAS DE EMERGENCIA</string>
+    <string name="emergency_note_1">Llamada gratuita, incluso sin saldo</string>
+    <string name="emergency_note_2">Siga las instrucciones del operador</string>
+    <string name="emergency_note_3">Observe y proporcione información sobre la ubicación del accidente, el estado de la víctima y el número de contacto de la persona en el lugar hasta que llegue la ambulancia</string>
+    <string name="hospital_title">HOSPITALES CERCANOS</string>
+    <string name="map_subtitle">Mapa</string>
+    <string name="contact_title">CONTACTO</string>
+    <string name="emergency_number">Números de emergencia</string>
+    <string name="change_language">Cambiar idioma</string>
+</resources>
